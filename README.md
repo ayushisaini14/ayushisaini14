@@ -30,7 +30,7 @@ I am a frontend developer, who loves learning new things
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
                     
-                  ### Socials
+ ### Socials
                   
                   
                 <p align="left">
@@ -42,3 +42,4 @@ I am a frontend developer, who loves learning new things
                       href="http://www.github.com/ayushisaini14"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=ayushisaini14&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
                       href="http://www.github.com/ayushisaini14"><img src="https://activity-graph.herokuapp.com/graph?username=ayushisaini14&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/ayushisaini14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushisaini14&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
