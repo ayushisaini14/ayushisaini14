@@ -6,7 +6,7 @@ Frontend Developer
 
 I am a frontend developer, who loves learning new things
 
-*   🌍  I'm based in Rajasthan
+*   🌍  I'm based in India
 *   ✉️  You can contact me at [ayushisaini3622@gmail.com](mailto:ayushisaini3622@gmail.com)
 *   🧠  I'm learning Data structure and Algorithms
 *   🤝  I'm open to collaborating on projects
